@@ -1,3 +1,3 @@
-# Picus-Security-Golang-Bootcamp
+# Picus-Security-Golang-Bootcamp HWs
 
-It includes my HWs and studies done during the bootcamp
+It includes my HWs done during the bootcamp
